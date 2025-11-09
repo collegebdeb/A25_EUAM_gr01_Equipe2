@@ -18,6 +18,10 @@
 		{
 			"Name": "VirtualCameraCore",
 			"Enabled": true
+		},
+		{
+			"Name": "HttpBlueprint",
+			"Enabled": true
 		}
 	]
 }
