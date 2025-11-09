@@ -12,15 +12,7 @@
 			]
 		},
 		{
-			"Name": "VirtualCamera",
-			"Enabled": true
-		},
-		{
-			"Name": "VirtualCameraCore",
-			"Enabled": true
-		},
-		{
-			"Name": "HttpBlueprint",
+			"Name": "GameplayStateTree",
 			"Enabled": true
 		}
 	]
